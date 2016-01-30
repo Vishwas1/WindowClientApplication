@@ -1,0 +1,13 @@
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\ConsumingMyService.exe.config
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\ConsumingMyService.exe
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\ConsumingMyService.pdb
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.Form1.resources
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.Properties.Resources.resources
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.csproj.GenerateResource.Cache
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.exe
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.pdb
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\Newtonsoft.Json.Net20.dll
+c:\users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\obj\Debug\ConsumingMyService.csprojResolveAssemblyReference.cache
+C:\Users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\Antlr3.Runtime.dll
+C:\Users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\DynamicJson.dll
+C:\Users\vab\documents\visual studio 2012\Projects\ConsumingMyService\ConsumingMyService\bin\Debug\restsharp.dll
